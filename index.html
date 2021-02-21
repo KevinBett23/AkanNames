@@ -25,3 +25,25 @@
     <li>Friday: Afua</li>
     <li>Saturday: Ama</li>
   </ul>
+  <h2>Enter your Birthday details</h2>
+    <form name="form" class="form">
+      <label  id="name" for="">Year of Birth</label>
+      <input type="number" class="form-control" id="year" placeholder="eg 1998" name="year">
+      <label id="email" for="">Month of Birth</label>
+      <input type="number" class="form-control" id="month" placeholder="e.g 12 for December" name="month">
+      <label id="number" for="">Day of Birth</label>
+      <input type="number" class="form-control" id="date" placeholder="31" name="date">
+      <br>
+      <label for="month">Gender</label>
+      <br>
+      <label class="label">
+      <input type="checkbox" class="form-check-input" name="gender" id="male">&nbsp; Male
+      </label>
+      <br>
+      <label class="label">
+      <input type="radio" class="form-check-input" name="gender" id="female">&nbsp; Female
+      </label>
+      <br>
+      <br>
+      <button id="button" onclick="getName()">Get Name</button>
+    </form>
