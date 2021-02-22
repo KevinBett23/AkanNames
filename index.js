@@ -138,7 +138,7 @@ const getGender = () => {
   ``}     
 ``}
 
-const getName = () => {
+function getName() {
   dayValue = calculateDay();
   getGender();
 }
