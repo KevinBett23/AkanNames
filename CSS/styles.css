@@ -18,10 +18,11 @@ p{
 
 h2{
   color: maroon;
-  text-align: justify;
+  text-align: center;
   font-style: oblique;
   font-family: sans-serif;
   display: ruby-base;
+
 }
 
 ul{
