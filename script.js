@@ -31,7 +31,7 @@ const getGender = () => {
           alert(
             "You were born on " +
               days[1] +
-              " and Your akan name is " +
+              " and your akan name is " +
               maleNames[1] +
               "!"
           );
@@ -39,7 +39,7 @@ const getGender = () => {
           alert(
             "You were born on " +
               days[2] +
-              " and Your akan name is " +
+              " and your akan name is " +
               maleNames[2] +
               "!"
           );
@@ -47,7 +47,7 @@ const getGender = () => {
           alert(
             "You were born on " +
               days[3] +
-              " and Your akan name is " +
+              " and your akan name is " +
               maleNames[3] +
               "!"
           );
@@ -55,7 +55,7 @@ const getGender = () => {
           alert(
             "You were born on " +
               days[4] +
-              " and Your akan name is " +
+              " and your akan name is " +
               maleNames[4] +
               "!"
           );
@@ -63,7 +63,7 @@ const getGender = () => {
           alert(
             "You were born on " +
               days[5] +
-              " and Your akan name is " +
+              " and your akan name is " +
               maleNames[5] +
               "!"
           );
@@ -71,7 +71,7 @@ const getGender = () => {
           alert(
             "You were born on " +
               days[6] +
-              " and Your akan name is " +
+              " and your akan name is " +
               maleNames[6] +
               "!"
           );
@@ -82,7 +82,7 @@ const getGender = () => {
         alert(
           "You were born on " +
             days[0] +
-            " and Your akan name is " +
+            " and your akan name is " +
             femaleNames[0] +
             "!"
         );
@@ -90,7 +90,7 @@ const getGender = () => {
         alert(
           "You were born on " +
             days[1] +
-            " and Your akan name is " +
+            " and your akan name is " +
             femaleNames[1] +
             "!"
         );
@@ -98,7 +98,7 @@ const getGender = () => {
         alert(
           "You were born on " +
             days[2] +
-            " and Your akan name is " +
+            " and your akan name is " +
             femaleNames[2] +
             "!"
         );
@@ -106,7 +106,7 @@ const getGender = () => {
         alert(
           "You were born on " +
             days[3] +
-            " and Your akan name is " +
+            " and your akan name is " +
             femaleNames[3] +
             "!"
         );
@@ -114,7 +114,7 @@ const getGender = () => {
         alert(
           "You were born on " +
             days[4] +
-            " and Your akan name is " +
+            " and your akan name is " +
             femaleNames[4] +
             "!"
         );
@@ -122,7 +122,7 @@ const getGender = () => {
         alert(
           "You were born on " +
             days[5] +
-            " and Your akan name is " +
+            " and your akan name is " +
             femaleNames[5] +
             "!"
         );
@@ -130,7 +130,7 @@ const getGender = () => {
         alert(
           "You were born on " +
             days[6] +
-            " and Your akan name is " +
+            " and your akan name is " +
             femaleNames[6] +
             "!"
         );
