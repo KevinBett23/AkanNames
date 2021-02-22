@@ -12,6 +12,21 @@ const calculateDay = () => {
   const d = Math.round(((CC/4) - 2 * CC - 1) + ((5 * YY/4)) + ((26 * (MM+1)/10)) + DD )%7
   console.log(d);
   return d;
+
+  function validate(){
+    if(document.myForm.month.value > 12  || document.myForm.month.value <= 0){
+     alert( "Provide a valid month" );
+     document.myForm.month.focus() ;
+     return false;
+  }
+  else if(document.myForm.date.value > 31 || document.myForm.date.value <= 0) {
+     alert( "Provide a valid date" );
+     document.myForm.day.focus() ;
+     return false;
+  }
+  else {
+    return true;
+  }
 };
 
 
